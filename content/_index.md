@@ -1,6 +1,6 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ''
+# Homepage configuration
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -11,30 +11,17 @@ sections:
       title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
   - block: collection
-    id: workingpaper
+    id: projects
     content:
-      title: Work in Progress
+      title: Projects
+      subtitle: A showcase of my analytical and business projects
       filters:
         folders:
-          - workingpaper
-        exclude_featured: true
+          - project     # This will display content from content/project/
+        exclude_featured: false
     design:
       columns: '2'
-      view: citation
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      #text: |-
-      #  {{% callout note %}}
-      #  Quickly discover relevant content by [filtering publications](./publication/).
-      #  {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+      view: card
 ---
