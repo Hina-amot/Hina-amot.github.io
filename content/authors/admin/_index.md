@@ -11,7 +11,7 @@ role: A student in MS in Quantitative Management
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Duke University's Fuqua School of Business
-    url:https://www.fuqua.duke.edu/programs/mqm-business-analytics
+    url: https://www.fuqua.duke.edu/programs/mqm-business-analytics
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm interested in Mobility/Manufacturing/Consumer Goods and related sectors.
