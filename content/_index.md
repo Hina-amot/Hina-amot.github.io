@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: collection
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -22,6 +22,6 @@ sections:
           - project     # This will display content from content/project/
         exclude_featured: false
     design:
-      columns: '2'
+      columns: '3'
       view: card
 ---
