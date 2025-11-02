@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Quantitative Management: Business Analytics
+    - course: M.S. in Quantitative Management
       institution: Duke University's Fuqua School of Business
       year: 2025.7 - 2026.5
     - course: B.A. in Economics
