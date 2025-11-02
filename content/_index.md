@@ -24,17 +24,4 @@ sections:
     design:
       columns: '3'
       view: compact
-
-- block: portfolio
-    id: projects
-    content:
-      title: Projects
-      subtitle: A showcase of my analytical and business projects
-      filters:
-        folders:
-          - project     # This will display content from content/project/
-        exclude_featured: false
-    design:
-      columns: '3'
-      view: masonry
 ---
