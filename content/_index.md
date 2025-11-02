@@ -23,5 +23,5 @@ sections:
         exclude_featured: false
     design:
       columns: '3'
-      view: compact
+      view: masonry
 ---
