@@ -65,4 +65,4 @@ I am a student of MS in Quantitative Management at Duke University's Fuqua Schoo
 I have involved in analytical work in Customer behavior/Operation process/Financial planning through new service development and cross-company collaboration projects at JR Central in Japan.
 My current interests lie in analytical roles in strategy/finance/accounitng function across Mobility/Manufacturing/Consumer goods sectors.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "tex/yusukeishihata_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "tex/hinakoishihata.pdf" "newtab" >}}CV{{< /staticref >}}.
