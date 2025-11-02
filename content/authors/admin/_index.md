@@ -6,34 +6,31 @@ title: Hinako Ishihata
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: A student in MS in Quantitative Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Duke University
-    url: https://www.econ.duke.edu/
+  - name: Duke University's Fuqua School of Business
+    url:https://www.fuqua.duke.edu/programs/mqm-business-analytics
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in Labor/Family/Education and structural models such as marriage matching and job search.
+bio: I'm interested in Mobility/Manufacturing/Consumer Goods and related sectors.
 
 # Interests to show in About widget
 interests:
-  - Labor Economics
-  - Economics of the Family
-  - Economics of Education
+  - Mobility/Manufacturing/Consumer Goods
+  - Analyst roles in Finance/Accounting function
+  - Analyst roles in Strategy function
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Economics
-      institution: Duke University
-      year: 2021 - Present
-    - course: M.A. in Economics
-      institution: University of Tokyo
-      year: 2021
+    - course: M.S. in Quantitative Management: Business Analytics
+      institution: Duke University's Fuqua School of Business
+      year: 2025.7 - 2026.5
     - course: B.A. in Economics
       institution: University of Tokyo
-      year: 2019
+      year: 2016.4 - 2020.3
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,22 +39,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yusuke.ishihata@duke.edu'
-- icon: x
-  icon_pack: fab
-  link: https://x.com/yusuke_ishihata
-- icon: bluesky
-  icon_pack: fab
-  link: https://bsky.app/profile/yusuke-ishihata.bsky.social
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=ncMB16kAAAAJ
+  link: 'mailto:hinako.ishihata@duke.edu'
 - icon: github
   icon_pack: fab
-  link: https://github.com/yusukeishihata
+  link: https://github.com/Hina-amot
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/yusuke-ishihata-9a2b75302
+  link: https://www.linkedin.com/in/hinako-ishihata/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -73,8 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a fifth-year Ph.D. student in economics at Duke University.
-My research interests lie in labor economics, the economics of the family, and the economics of education, with a particular focus on structural methods.
-I have broad theoretical and empirical interests in topics such as marriage market matching, fertility, job search, and intra-household decision-making.
+I am a student of MS in Quantitative Management at Duke University's Fuqua School of Business.
+I have involved in analytical work in Customer behavior/Operation process/Financial planning through new service development and cross-company collaboration projects at JR Central in Japan.
+My current interests lie in analytical roles in strategy/finance/accounitng function across Mobility/Manufacturing/Consumer goods sectors.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "tex/yusukeishihata_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
