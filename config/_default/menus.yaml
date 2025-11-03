@@ -7,25 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
-    url: '#research'
+  - name: Projects
+    url: '#project'
     weight: 20
-  - name: Work in Progress
-    url: '#workingpaper'
-    parent: 'Research'
-    weight: 1
-  - name: Publications
-    url: '#publications'
-    parent: 'Research'
-    weight: 2
-  - name: Teaching
-    url: 'teaching'
-    weight: 30
- 
+
 
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: tex/yusukeishihata_cv.pdf
+    url: tex/hinakoishihata.pdf
     weight: 40
