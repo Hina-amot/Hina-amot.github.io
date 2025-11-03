@@ -6,7 +6,7 @@ title: Hinako Ishihata
 superuser: true
 
 # Role/position/tagline
-role: A student in MS in Quantitative Management
+role: Graduate Student in Quantitative Management (Business Analytics)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,23 +14,23 @@ organizations:
     url: https://www.fuqua.duke.edu/programs/mqm-business-analytics
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm interested in Mobility/Manufacturing/Consumer Goods and related sectors.
+bio: I’m interested in applying data analytics to business strategy and financial analysis within the mobility, manufacturing, and consumer goods sectors.
 
 # Interests to show in About widget
-interests:
-  - Mobility/Manufacturing/Consumer Goods
-  - Analyst roles in Finance/Accounting function
-  - Analyst roles in Strategy function
+# interests:
+  # - Mobility/Manufacturing/Consumer Goods
+  # - Analyst roles in Finance/Accounting function
+  # - Analyst roles in Strategy function
 
 # Education to show in About widget
 education:
   courses:
     - course: M.S. in Quantitative Management
       institution: Duke University's Fuqua School of Business
-      year: 2025.7 - 2026.5
+      year: (expected July 2025 – May 2026)
     - course: B.A. in Economics
       institution: University of Tokyo
-      year: 2016.4 - 2020.3
+      year: (April 2016 – March 2020)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,8 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a student of MS in Quantitative Management at Duke University's Fuqua School of Business.
-I have involved in analytical work in Customer behavior/Operation process/Financial planning through new service development and cross-company collaboration projects at JR Central in Japan.
-My current interests lie in analytical roles in strategy/finance/accounitng function across Mobility/Manufacturing/Consumer goods sectors.
+I am a student in the Master of Science in Quantitative Management program at Duke University’s Fuqua School of Business.
+I have engaged in analytical work related to customer behavior, operational processes, and financial planning through new service development and cross-company collaboration projects at JR Central in Japan.
+My current interests lie in analytical roles within strategy, finance, and accounting functions across the mobility, manufacturing, and consumer goods sectors.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "tex/hinakoishihata.pdf" "newtab" >}}CV{{< /staticref >}}.
