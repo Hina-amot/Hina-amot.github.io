@@ -27,10 +27,10 @@ education:
   courses:
     - course: M.S. in Quantitative Management
       institution: Duke University's Fuqua School of Business
-      year: (expected July 2025 – May 2026)
+      year: expected July 2025 – May 2026
     - course: B.A. in Economics
       institution: University of Tokyo
-      year: (April 2016 – March 2020)
+      year: April 2016 – March 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
